@@ -52,11 +52,11 @@ Native. \
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/SaiLaRN7)
 [![Yandex](https://img.shields.io/badge/-Yandex-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](https://mail.yandex.ru)
 
-## ⦁ Stats
+## Stats
 \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitalikN7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 \
 
-## ⦁ Top languages
+## Top languages
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikN7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
