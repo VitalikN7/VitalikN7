@@ -3,8 +3,8 @@
 ## Frontend-разработчик - 2 года опыта в реальных проектах.
 ⦁ Уверенные знания HTML, CSS и препроцессора SCSS, JavaScript и функционального
 React.js.\
-⦁ Владею библиотеками Redux-Toolkit, Asios, Bcrypt, Socket.io, Moment. \
-⦁ Есть понимание технологии SSR, REST Api.\
+⦁ Владею библиотеками Redux-Toolkit, Asios, Bcrypt, Socket.io, Moment, Formik, React Transition Group.\
+⦁ Есть понимание технологии Next.js, SSR, REST Api.\
 ⦁ Обладаю способностью находить решение сложных задач, имею высокую
 работоспособность и ответственность.\
 ⦁ На данный момент осваиваю технологию типизации JavaScript (TypeScript ), React
@@ -17,7 +17,6 @@ Native. \
 
 ⦁ Обрабатывал запросы с бэкенда а также отправлял данные на бэкенд.\
 ⦁ Настроил фильтрацию товаров и поиск по сайту.\
-⦁ Прикрутил онлайн оплату на сайте.\
 ⦁ Разработал личный кабинет пользователя.\
 ⦁ Подключил API Яндекс. Карты.\
 ⦁ Сверстал React - компонентов.\
@@ -34,7 +33,16 @@ Native. \
 ⦁ Занимался версткой, в том числе адаптивной под мобильные
 устройства.
 
+## Фриланс разных проектов
+
+⦁ Работал верстальщиком.\
+⦁ Спроектировал и разработал дизайн сайта с нуля.\
+⦁ Для верстки использовал препроцессора SCSS.\
+⦁ Устранял ошибки других web - программистов.\
+⦁ Работал в команде.
+
 ## Language and Tools
+\
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&)](https://htmlbase.ru)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://htmlbase.ru)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000)](https://learn.javascript.ru/intro)
@@ -51,11 +59,6 @@ Native. \
 \
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/SaiLaRN7)
 [![Yandex](https://img.shields.io/badge/-Yandex-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](https://mail.yandex.ru)
-
-## Stats
-\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitalikN7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-\
 
 ## Top languages
 \
