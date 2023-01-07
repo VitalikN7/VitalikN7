@@ -26,7 +26,7 @@ Native. \
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org)
 [![Figma](https://img.shields.io/badge/-Figma-3178C6?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)      
 
-## Follw Me
+## Follow Me
 
 ## Почта: vitalik.kolodko.dev@yandex.ru.
 \
