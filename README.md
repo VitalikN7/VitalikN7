@@ -3,8 +3,8 @@
 ## Frontend-разработчик - 2 года опыта в реальных проектах.
 ⦁ Уверенные знания HTML, CSS и препроцессора SCSS, JavaScript, TypeScript и функционального
 React.js.\
-⦁ Владею библиотеками Redux-Toolkit, Asios, Bcrypt, JWT, Websocket, React-Router-Dom, React-moment, React-Dropzone, React-Yandex-Maps, React Hook Form, React Transition Group.\
-⦁ Есть понимание технологии Next.js, SSR, REST Api.\
+⦁ Владею библиотеками RTK, Asios, Bcrypt, JWT, Websocket, React-Router-Dom, React-moment, React-Dropzone, React-Yandex-Maps, React Hook Form, React Transition Group.\
+⦁ Имеются знания и практическое применение серверного рендеринга на Next.js, SSR\
 ⦁ Настраивал серверную часть Node.js с помощью библиотеке: Express. \
 ⦁ Обладаю способностью находить решение сложных задач, имею высокую
 работоспособность и ответственность.\
@@ -12,6 +12,7 @@ React.js.\
 Native. \
 ⦁ Умение пользоваться программой Figma для верстки сайтов. \
 ⦁ Умею работать с git и Таск-менеджером (Trello). \
+⦁ Архитектура приложения: MVC (Model-View-Controller), Frontend (Pages-Models-Components-Ul). \
 ⦁ Технический английский.
 
 ## Language and Tools
