@@ -1,16 +1,14 @@
 ## About Me
 
-## Frontend-разработчик - 2 года опыта в реальных проектах.
+## Frontend-разработчик - более 5 лет опыта в реальных проектах.
 ⦁ Уверенные знания HTML, CSS и препроцессора SCSS, JavaScript, TypeScript и функционального
 React.js.\
-⦁ Владею библиотеками RTK, Asios, Bcrypt, JWT, Websocket, React-Router-Dom, React-moment, React-Dropzone, React-Yandex-Maps, React Hook Form, React Transition Group.\
+⦁ Владею библиотеками RTK, Vite, Jest, React Dnd-Kit, JWT, Websocket, React Hook Form, Axios, React-Select, React-Slider, Swiper, Photo Sphere Viewer. \
 ⦁ Имеются знания и практическое применение серверного рендеринга на Next.js, SSR\
 ⦁ Настраивал серверную часть Node.js с помощью библиотеке: Express. \
 ⦁ Обладаю способностью находить решение сложных задач, имею высокую
 работоспособность и ответственность.\
-⦁ На данный момент осваиваю мобильную разработку с помощью технологии React
-Native. \
-⦁ Архитектура приложения: MVC (Model-View-Controller), Frontend (Pages-Models-Components-Ul). \
+⦁ Архитектура приложения: Backend: MVC (Model-View-Controller), Frontend: FSD. \
 ⦁ Технический английский.
 
 ## Language and Tools
@@ -23,7 +21,6 @@ Native. \
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://ru.reactjs.org)
 [![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=000000)](https://redux-toolkit.js.org)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org)
-[![Figma](https://img.shields.io/badge/-Figma-3178C6?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)      
 
 ## Follow Me
 
