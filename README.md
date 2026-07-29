@@ -1,6 +1,6 @@
 ## About Me
 
-## Frontend-разработчик - более 5 лет опыта в реальных проектах.
+## Frontend-разработчик - более 6 лет опыта в реальных проектах.
 ⦁ Уверенные знания HTML, CSS и препроцессора SCSS, JavaScript, TypeScript и функционального
 React.js.\
 ⦁ Владею библиотеками RTK, Vite, Jest, React Dnd-Kit, JWT, Websocket, React Hook Form, Axios, React-Select, React-Slider, Swiper, Photo Sphere Viewer. \
