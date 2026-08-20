@@ -54,7 +54,7 @@
 [![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)](https://jwt.io/)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logoColor=FFFFFF)
 
-## Follow Me
+## 🔗 Follow Me
 
 ## Почта: vitalik.kolodko.dev@yandex.ru.
 \
