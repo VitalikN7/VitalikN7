@@ -1,15 +1,11 @@
 ## About Me
 
-## Frontend-разработчик - более 6 лет опыта в реальных проектах.
-⦁ Уверенные знания HTML, CSS и препроцессора SCSS, JavaScript, TypeScript и функционального
-React.js.\
-⦁ Владею библиотеками RTK, Vite, Jest, React Dnd-Kit, JWT, Websocket, React Hook Form, Axios, React-Select, React-Slider, Swiper, Photo Sphere Viewer. \
-⦁ Имеются знания и практическое применение серверного рендеринга на Next.js, SSR\
-⦁ Настраивал серверную часть Node.js с помощью библиотеке: Express. \
-⦁ Обладаю способностью находить решение сложных задач, имею высокую
-работоспособность и ответственность.\
-⦁ Архитектура приложения: Backend: MVC (Model-View-Controller), Frontend: FSD. \
-⦁ Технический английский.
+## Frontend-разработчик - более 6 лет опыта в коммерческой разработке.
+⦁ Основная специализация - React/Next.js и TypeScript: архитектура frontend-приложений, производительность, сложные пользовательские интерфейсы и работа с
+данными.\
+⦁ Есть коммерческий fullstack-опыт с Node.js, NestJS и Express.js, поэтому хорошо понимаю взаимодействие frontend и backend. \
+⦁ Работал с крупными frontend-приложениями, микрофронтендами, real-time функциональностью, аналитическими интерфейсами и 3D/360-сценариями. \
+⦁ Работал в продуктовых командах по Agile/Scrum: участвовал в планировании, декомпозиции задач, code review и архитектурных обсуждениях\
 
 ## Language and Tools
 \
@@ -28,7 +24,3 @@ React.js.\
 \
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/SaiLaRN7)
 [![Yandex](https://img.shields.io/badge/-Yandex-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](https://mail.yandex.ru)
-
-## Top languages
-\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikN7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
